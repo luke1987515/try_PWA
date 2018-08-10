@@ -1,0 +1,21 @@
+創作出自己的程式。
+在 GitHub 上要使用 LICENSE 的檔案，表示自己的使用說明。
+
+參考唐鳳的公開影片，他說他會使用 CC0 作為軟體 LICENSE 聲明。
+
+一整個下午參考 <https://choosealicense.com/appendix/> 的比較表。
+MIT 比較通用，對於一般使用者。
+CC0 願意放棄更多權力的人可以用。(目前非 OSI 認定)
+
+我想要讓更多人不用擔心地使用，看起來使用 CC0 是比較好的選擇。
+目前 BSD 或是 MIT LICESE 的程式語言。
+<https://en.wikipedia.org/wiki/Comparison_of_open-source_programming_language_licensing>
+
+我比較有興趣的是 Rust Language，從目前的文檔看起來是很寬鬆的。
+<https://www.rust-lang.org/en-US/legal.html>
+
+下一步，確認想要實現的專案。
+我想做
+1. 自我修正
+2. 對外接口
+3. 形式化驗證
