@@ -16,11 +16,30 @@ fn main() {
 
     println!("The value of y is: {}", y);
 
-    let spaces = "   ";
-    println!("The value of spaces is: {}", spaces);
-    let spaces = spaces.len();
-    println!("The value of spaces is: {}", spaces);
+    let a: f32 = 3.0; // f32
 
-    // 3.2. Data Types
+    println!("The value of z is: {}", z);
+
+    println!("The value of a is: {}", a);
+
+    // addition
+    let sum = 5 + 10;
+    println!("The value of sum is: {}", sum);
+
+    // subtraction
+    let difference = 95.5 - 4.3;
+    println!("The value of difference is: {}", difference);
+
+    // multiplication
+    let product = 4 * 30;
+    println!("The value of product is: {}", product);
+
+    // division
+    let quotient = 56.7 / 32.2;
+    println!("The value of quotient is: {}", quotient);
+
+    // remainder
+    let remainder = 43 % 5;
+    println!("The value of remainder is: {}", remainder);
 
 }
