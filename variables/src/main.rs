@@ -14,7 +14,9 @@ fn main() {
 
     let y = y * 2;
 
+
     println!("The value of y is: {}", y);
+    let z = 2.0; // f64
 
     let a: f32 = 3.0; // f32
 
